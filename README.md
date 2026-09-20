@@ -4,7 +4,7 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="./catttsss.mp4" width="260" alt="Dancing cat" autoplay loop>
+<video src="./catttsss.mp4" width="260" alt="Dancing cat" autoplay loop muted>
 
 </td>
 
