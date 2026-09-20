@@ -1,8 +1,6 @@
 <div align="center">
 
-<video width="280" autoplay loop muted playsinline>
-  <source src="./catttsss.mp4" type="video/mp4">
-</video>
+<img src="./chicken.gif" width="280">
 
 # Muhammad Zaki Dzulfikar
 
