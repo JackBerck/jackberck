@@ -1,22 +1,12 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="35%" align="center">
-
-<video src="./catttsss.mp4" width="260" alt="Dancing cat" autoplay loop muted>
-
-</td>
-
-<td width="65%" align="left">
+<video width="280" autoplay loop muted playsinline>
+  <source src="./catttsss.mp4" type="video/mp4">
+</video>
 
 # Muhammad Zaki Dzulfikar
 
-**Informatics Engineering Student**  
-**Software Engineer in Progress**
-
-7th-semester student at **Universitas Jenderal Soedirman**  
-Currently interning at **Redcomm Indonesia**
+**Informatics Engineering Student · Software Engineer in Progress**
 
 [GitHub](https://github.com/JackBerck) ·
 [LinkedIn](YOUR_LINKEDIN_URL) ·
@@ -24,20 +14,19 @@ Currently interning at **Redcomm Indonesia**
 [Facebook](YOUR_FACEBOOK_URL) ·
 [Email](mailto:YOUR_EMAIL)
 
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
 
 ### 👋 About
 
+7th-semester Informatics Engineering student at **Universitas Jenderal
+Soedirman**, currently interning at **Redcomm Indonesia**.
+
 Currently focused on **Software Engineering**, especially web, backend,
 and exploring whatever interesting technology comes my way.
 
-I'm open to **jobs, collaborations, projects, and interesting opportunities. hehehe.**
+Open to **jobs, collaborations, projects, and interesting opportunities. hehehe.**
 
 ### 🛠️ Tech
 
