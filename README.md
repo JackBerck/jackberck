@@ -16,35 +16,30 @@
 
 ---
 
-### 👋 About Me
+### 👋 About
 
-I'm **Muhammad Zaki Dzulfikar**, a 7th-semester Informatics Engineering
-student at **Universitas Jenderal Soedirman**.
+7th-semester Informatics Engineering student at **Universitas Jenderal
+Soedirman**, currently interning at **Redcomm Indonesia**.
 
-Currently doing an internship at **Redcomm Indonesia** and focusing on
-becoming a **Software Engineer**.
+Currently focused on **Software Engineering**, especially web, backend,
+and exploring whatever interesting technology comes my way.
 
-I'm always open to interesting **jobs, collaborations, projects,
-or anything new and challenging. hehehe.**
+Open to **jobs, collaborations, projects, and interesting opportunities. hehehe.**
 
----
-
-### 🛠️ Tech I Use
+### 🛠️ Tech
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nextjs,nuxt,go,python,docker,git,github,postgres,mysql&perline=7" />
 </p>
 
----
+### 🎮 Life Outside Code
 
-### 🎮 Outside Code
-
-Gaming · Music · Sports · Hiking · Exploring new things
+Gaming · Music · Sports · Hiking · New & challenging things
 
 ---
 
 <div align="center">
 
-> *Building things, breaking things, learning things.*
+**Thanks for stopping by! 🐈**
 
 </div>
